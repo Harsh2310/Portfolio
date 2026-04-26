@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Article | Harsh Vardhan</title>
+    <style>
+        body {
+            font-family: Arial;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 { color: #222; }
+        p { color: #444; }
+    </style>
+</head>
+<body>
+
+<h1>The Hidden Work Behind Artificial Intelligence</h1>
+
+<p>Title: The Hidden Work Behind Artificial Intelligence: Why Human Judgment Still Matters</p>
+
+<p>Artificial Intelligence (AI) is often portrayed as a fully autonomous system capable of thinking and learning on its own. However, behind every intelligent model lies a significant amount of human effort. From data labeling to content evaluation, human judgment plays a critical role in shaping how AI systems behave.
+
+At the core of AI development is data. Machine learning models rely on large datasets to learn patterns, make predictions, and generate responses. But these datasets do not organize or verify themselves. Humans are responsible for curating, labeling, and refining this data to ensure accuracy and relevance. Without this process, AI systems risk learning incorrect or biased information.
+
+One of the most important tasks in this pipeline is data annotation. This involves tagging text, images, or other inputs so that AI models can understand context. For example, a sentence may need to be classified based on sentiment, intent, or factual correctness. Such tasks require not only attention to detail but also strong comprehension skills—qualities traditionally associated with journalism and research fields.
+
+In addition to annotation, fact-checking is another area where human involvement is essential. AI models can generate information quickly, but they cannot always guarantee its truthfulness. Human reviewers are needed to verify outputs, cross-check sources, and ensure that the information aligns with reliable data. This process is especially important in sensitive domains such as healthcare, finance, and public information.
+
+Moreover, clarity and communication remain key challenges for AI systems. While models can produce text, they often struggle with tone, coherence, and context. Human editors step in to refine outputs, making them more readable and appropriate for specific audiences. This mirrors the role of editors in journalism, where raw information is transformed into clear and engaging content.
+
+Despite rapid advancements, AI is not a replacement for human intelligence—it is a tool that depends on it. The effectiveness of any AI system is directly linked to the quality of human input it receives. As a result, roles involving content evaluation, data annotation, and research are becoming increasingly important in the AI ecosystem.
+
+In conclusion, the development of Artificial Intelligence is not just a technological process but a collaborative effort between machines and humans. While AI can process information at scale, it is human judgment that ensures accuracy, fairness, and clarity. Recognizing this balance is essential for building trustworthy and effective AI systems.
+</p>
+
+</body>
+</html>
